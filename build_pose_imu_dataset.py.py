@@ -529,6 +529,6 @@ def process_all_sessions(root: str, output_root: Optional[str] = None) -> None:
 
 if __name__ == "__main__":
     # Change this to the folder where your files live
-    data_root = r"C:\Users\joono\OneDrive\Desktop\1. Post Graduate Diploma in Computer and Information Science\STEM Research Methods\Data Stitching Test\Input Data"
-    output_root = r"C:\Users\joono\OneDrive\Desktop\1. Post Graduate Diploma in Computer and Information Science\STEM Research Methods\Data Stitching Test"
+    data_root = r".\Input Data"
+    output_root = r".\"
     process_all_sessions(root=data_root, output_root=output_root)
