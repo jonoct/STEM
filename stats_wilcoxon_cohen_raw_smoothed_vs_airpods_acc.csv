@@ -1,0 +1,3 @@
+baseline_variant,best_variant,level,wilcoxon_stat,wilcoxon_p,cohen_d,n_faults
+raw_smoothed,airpods_acc,single_label,435.0,4.76694618796731e-09,0.6531010615902474,84
+raw_smoothed,airpods_acc,multi_label,0.0,0.125,0.9695833455365397,4
